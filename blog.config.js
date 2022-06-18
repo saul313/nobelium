@@ -1,6 +1,6 @@
 const BLOG = {
   title: '学习园地',
-  author: 'Craig Hart',
+  author: 'saul shi',
   email: 'i@craigary.net',
   link: 'https://nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
